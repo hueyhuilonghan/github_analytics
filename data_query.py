@@ -5,8 +5,8 @@ import json
 import pandas as pd
 
 
-username = 'hueyhuilonghan'
-token = '54545cce103d8c5181667870dae85da1f1810e06'
+username = ''
+token = ''
 
 index = []
 df_list = []
